@@ -101,13 +101,13 @@ I'm a passionate computer engineering student with a growing interest in full-st
 ---
 <img src="https://raw.githubusercontent.com/mayss-aa/mayss-aa/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
-###
+
 📫 Let's Connect
 
 Feel free to connect or check out my projects! 
