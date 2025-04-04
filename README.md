@@ -5,9 +5,7 @@ I'm a passionate computer engineering student with a growing interest in full-st
 ---
 
 ## 💻 About Me
-
-✨ Creating bugs since I first typed `Hello, World!`  
-📚 Currently learning advanced backend, mobile development with Flutter, and the basics of machine learning  
+🔭 I’m currently working on improving my skills 
 🔧 Comfortable working with Unix commands and shell scripting on Linux environments  
 🎯 Goals: Build useful apps, contribute to open source, and keep learning  
 
