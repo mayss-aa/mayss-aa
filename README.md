@@ -1,17 +1,17 @@
-# Hey 👋, I'm Mayssa!
+# Hey , I'm Mayssa!
 
 I'm a passionate computer engineering student with a growing interest in full-stack and mobile development.  
 
 ---
 
-## 💻 About Me
-🔭 I’m currently working on improving my skills 
-🔧 Comfortable working with Unix commands and shell scripting on Linux environments  
-🎯 Goals: Build useful apps, contribute to open source, and keep learning  
+##  About Me
+ I’m currently working on improving my skills 
+ Comfortable working with Unix commands and shell scripting on Linux environments  
+Goals: Build useful apps, contribute to open source, and keep learning  
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="left">
   <table>
