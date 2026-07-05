@@ -1,111 +1,196 @@
-# Hey , I'm Mayssa!
+<h1 align="center">Hi 👋, I'm Mayssa Mejri</h1>
 
-I'm a passionate computer engineering student with a growing interest in full-stack and mobile development.  
+<h3 align="center">
+Cloud & DevOps Engineer • Platform Engineering • MLOps • AI Automation • Full-Stack Developer
+</h3>
+
+<p align="center">
+Passionate about building cloud-native platforms, automating infrastructure, deploying scalable applications, and integrating AI into modern software systems.
+</p>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Engineering Student
+
+☁️ Passionate about **Cloud Computing, DevOps, Platform Engineering, MLOps, AI Automation, and Full-Stack Development.**
+
+💡 I enjoy designing scalable cloud-native applications, automating infrastructure, building CI/CD pipelines, deploying Kubernetes workloads, and developing intelligent AI-powered solutions.
+
+### 🔭 Currently Working On
+
+- ☁️ Cloud-Native Medical Secretary Platform
+- 🤖 AI Automation Platform
+- 🚀 Internal Developer Platform (IDP)
+- ☸️ Kubernetes & GitOps
+- 📊 Observability & Monitoring
+- 🧠 LLM-powered AI Agents
+
+### 🌱 Currently Learning
+
+- Advanced Kubernetes
+- AWS Cloud
+- Azure Cloud
+- MLOps
+- AI Agents & LLM Applications
+- Platform Engineering
+- Cloud Security
+
+### 🎯 Interests
+
+- Cloud Architecture
+- DevOps
+- Platform Engineering
+- MLOps
+- AI Automation
+- Infrastructure as Code
+- Kubernetes
+- GitOps
+- Observability
+- Cloud Security
 
 ---
 
-##  About Me
- I’m currently working on improving my skills 
- Comfortable working with Unix commands and shell scripting on Linux environments  
-Goals: Build useful apps, contribute to open source, and keep learning  
+# ⚡ Tech Stack
+
+### ☁️ Cloud
+
+- AWS
+- Azure
+- OpenStack
+
+### ⚙️ DevOps & Platform Engineering
+
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- GitHub Actions
+- Jenkins
+- Git
+- Linux
+- Bash
+
+### 📊 Monitoring & Observability
+
+- Prometheus
+- Grafana
+- Loki
+
+### 💻 Backend
+
+- Spring Boot
+- Laravel
+- Symfony
+- Python
+- Java
+- PHP
+
+### 🎨 Frontend
+
+- Angular
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+### 🗄️ Databases
+
+- PostgreSQL
+- MySQL
+- SQL Server
+- Firestore
+
+### 🤖 AI & MLOps
+
+- Python
+- LLM Applications
+- AI Agents
+- Prompt Engineering
+- MLOps
+- AI Automation
 
 ---
 
-## Languages and Tools
+# 🚀 Featured Projects
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-        <br>C
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-        <br>C++
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-        <br>Java
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-        <br>Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-        <br>PHP
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-        <br>JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-        <br>MySQL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-        <br>Dart
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" />
-        <br>Symfony
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-        <br>Flutter
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" width="40" />
-        <br>JavaFX
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" />
-        <br>Qt
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-        <br>Linux
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
-        <br>Ubuntu
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-        <br>Git
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-        <br>GitHub
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
-        <br>Anaconda
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-        <br>Shell Scripting
-      </td>
-    </tr>
-  </table>
-</div>
+## ☁️ MediFollow
+
+Cloud-Native Healthcare Platform deployed on OpenStack using Docker, Terraform, Kubernetes, Prometheus, Grafana, and Ansible.
 
 ---
-<img src="https://raw.githubusercontent.com/mayss-aa/mayss-aa/output/snake.svg" alt="Snake animation" />
 
+## 🤖 AI Automation Platform
 
+Building intelligent automation workflows powered by Large Language Models (LLMs) and AI Agents.
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+---
 
+## ⚙️ Internal Developer Platform (IDP)
 
-📫 Let's Connect
+A cloud platform focused on:
 
-Feel free to connect or check out my projects! 
+- Self-Service Infrastructure
+- GitOps
+- Kubernetes
+- Terraform
+- CI/CD
+- Observability
+- Self-Healing Operations
+
+---
+
+## 🏥 Medical Secretary Platform
+
+Cloud-native healthcare platform featuring secure deployment, automation, dashboards, monitoring, and AI-powered services.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** mayssamejri050@gmail.com
+
+💼 **LinkedIn:** Your LinkedIn
+
+🌍 **Portfolio:** Coming Soon
+
+---
+
+<p align="center">
+
+⭐ Always learning • Building • Automating • Innovating
+
+</p>
