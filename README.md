@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Mayssa%20Mejri&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20•%20DevOps%20•%20Platform%20Engineering%20•%20AI%20Automation&descAlignY=68"/>
 </p>
 
 <h3 align="center">
@@ -24,11 +24,11 @@ Designing cloud-native platforms, automating infrastructure, and building AI-pow
 
 # About Me
 
-I'm a Computer Engineering student passionate about **Cloud Computing**, **DevOps**, **Platform Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
+I'm a Computer Engineering student passionate about **Cloud Computing**, **DevOps**, **Platform Engineering**, **MLOps**, and **AI Automation**.
 
-I enjoy building cloud-native applications, automating infrastructure, designing CI/CD pipelines, deploying Kubernetes workloads, and integrating AI into modern software systems.
+I enjoy designing cloud-native platforms, automating infrastructure, building CI/CD pipelines, deploying Kubernetes workloads, and integrating AI into modern software systems.
 
-I'm continuously improving my skills through hands-on projects focused on cloud infrastructure, intelligent automation, and scalable software architecture.
+My goal is to build scalable, secure, and production-ready cloud solutions while continuously expanding my expertise in cloud infrastructure, intelligent automation, and platform engineering.
 
 ---
 
@@ -47,10 +47,9 @@ I'm continuously improving my skills through hands-on projects focused on cloud 
 - Cloud Infrastructure
 - Platform Engineering
 - DevOps
-- Infrastructure as Code
+- Infrastructure as Code (IaC)
 - Kubernetes
-- CI/CD
-- GitOps
+- CI/CD & GitOps
 - Monitoring & Observability
 - MLOps
 - AI Automation
@@ -77,7 +76,7 @@ I'm continuously improving my skills through hands-on projects focused on cloud 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Monitoring
+## Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -120,27 +119,27 @@ I'm continuously improving my skills through hands-on projects focused on cloud 
 
 ### Internal Developer Platform (IDP)
 
-Self-service cloud platform focused on Infrastructure as Code, Kubernetes, GitOps, CI/CD, observability, and self-healing operations.
+A platform engineering solution focused on Infrastructure as Code, Kubernetes, GitOps, CI/CD, observability, and self-healing operations.
 
 ### MediFollow
 
-Cloud-native healthcare platform deployed on OpenStack using Docker, Kubernetes, Terraform, Ansible, Prometheus, and Grafana.
+A cloud-native healthcare platform deployed on OpenStack using Docker, Kubernetes, Terraform, Ansible, Prometheus, and Grafana.
 
 ### AI Automation Platform
 
-AI-powered automation platform leveraging Large Language Models (LLMs) and AI Agents to automate operational workflows.
+An intelligent automation platform leveraging Large Language Models (LLMs) and AI Agents to automate operational workflows.
 
 ### Cloud-Native Medical Secretary Platform
 
-Secure cloud-native web application featuring automated deployment, monitoring, dashboards, and cloud infrastructure.
+A secure cloud-native platform featuring automated deployment, monitoring, dashboards, and scalable cloud infrastructure.
 
 ---
 
 # Currently Learning
 
 - Advanced Kubernetes
-- AWS
-- Azure
+- AWS Cloud
+- Azure Cloud
 - Platform Engineering
 - MLOps
 - AI Agents
@@ -148,13 +147,13 @@ Secure cloud-native web application featuring automated deployment, monitoring, 
 
 ---
 
-# Connect with Me
+# Let's Connect
 
-💼 LinkedIn  
-**https://www.linkedin.com/in/mayssa-mejri/**
+💼 **LinkedIn**  
+https://www.linkedin.com/in/mayssa-mejri/
 
-📧 Email  
-**mayssamejri050@gmail.com**
+📧 **Email**  
+mayssamejri050@gmail.com
 
 ---
 
