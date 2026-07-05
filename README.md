@@ -1,66 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mayssa Mejri</h1>
+# Hi, I'm Mayssa Mejri
 
-<h3 align="center">
-Cloud & DevOps Engineer • Platform Engineering • MLOps • AI Automation • Full-Stack Developer
-</h3>
+Computer Engineering student with a strong interest in Cloud Computing, DevOps, Platform Engineering, MLOps, AI Automation, and Full-Stack Development.
 
-<p align="center">
-Passionate about building cloud-native platforms, automating infrastructure, deploying scalable applications, and integrating AI into modern software systems.
-</p>
+I enjoy designing cloud-native applications, automating infrastructure, and building reliable software systems. My projects combine software engineering, cloud technologies, Infrastructure as Code, containerization, CI/CD, observability, and AI-powered automation.
 
 ---
 
-# 🚀 About Me
+## About Me
 
-🎓 Computer Engineering Student
+I'm currently working on several projects focused on cloud technologies and intelligent automation, including:
 
-☁️ Passionate about **Cloud Computing, DevOps, Platform Engineering, MLOps, AI Automation, and Full-Stack Development.**
+- Cloud-Native Medical Secretary Platform
+- Internal Developer Platform (IDP)
+- AI Automation Platform
+- Cloud-Native Healthcare Platform
 
-💡 I enjoy designing scalable cloud-native applications, automating infrastructure, building CI/CD pipelines, deploying Kubernetes workloads, and developing intelligent AI-powered solutions.
-
-### 🔭 Currently Working On
-
-- ☁️ Cloud-Native Medical Secretary Platform
-- 🤖 AI Automation Platform
-- 🚀 Internal Developer Platform (IDP)
-- ☸️ Kubernetes & GitOps
-- 📊 Observability & Monitoring
-- 🧠 LLM-powered AI Agents
-
-### 🌱 Currently Learning
-
-- Advanced Kubernetes
-- AWS Cloud
-- Azure Cloud
-- MLOps
-- AI Agents & LLM Applications
-- Platform Engineering
-- Cloud Security
-
-### 🎯 Interests
+My current interests include:
 
 - Cloud Architecture
-- DevOps
 - Platform Engineering
+- DevOps
 - MLOps
-- AI Automation
+- AI Agents and LLM Applications
 - Infrastructure as Code
 - Kubernetes
-- GitOps
-- Observability
 - Cloud Security
+- Observability
+
+I enjoy learning new technologies and building practical projects that improve automation, developer experience, and cloud operations.
 
 ---
 
-# ⚡ Tech Stack
+## Technologies
 
-### ☁️ Cloud
+### Cloud
 
 - AWS
 - Azure
 - OpenStack
 
-### ⚙️ DevOps & Platform Engineering
+### DevOps
 
 - Docker
 - Kubernetes
@@ -72,125 +51,83 @@ Passionate about building cloud-native platforms, automating infrastructure, dep
 - Linux
 - Bash
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 
 - Prometheus
 - Grafana
 - Loki
 
-### 💻 Backend
+### Backend
 
+- Java
 - Spring Boot
+- Python
 - Laravel
 - Symfony
-- Python
-- Java
 - PHP
 
-### 🎨 Frontend
+### Frontend
 
 - Angular
 - React
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 
-### 🗄️ Databases
+### Databases
 
 - PostgreSQL
 - MySQL
 - SQL Server
 - Firestore
 
-### 🤖 AI & MLOps
+### AI & MLOps
 
 - Python
-- LLM Applications
+- Large Language Models (LLMs)
 - AI Agents
 - Prompt Engineering
-- MLOps
 - AI Automation
+- MLOps
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## ☁️ MediFollow
+### MediFollow
 
-Cloud-Native Healthcare Platform deployed on OpenStack using Docker, Terraform, Kubernetes, Prometheus, Grafana, and Ansible.
+A cloud-native healthcare platform deployed on OpenStack using Docker, Terraform, Kubernetes, Ansible, Prometheus, and Grafana.
 
----
+### Internal Developer Platform (IDP)
 
-## 🤖 AI Automation Platform
+A platform engineering project focused on self-service infrastructure, GitOps, CI/CD, Kubernetes, Terraform, observability, and self-healing operations.
 
-Building intelligent automation workflows powered by Large Language Models (LLMs) and AI Agents.
+### AI Automation Platform
 
----
+An intelligent automation platform using Large Language Models (LLMs) and AI Agents to automate operational workflows.
 
-## ⚙️ Internal Developer Platform (IDP)
+### Medical Secretary Platform
 
-A cloud platform focused on:
-
-- Self-Service Infrastructure
-- GitOps
-- Kubernetes
-- Terraform
-- CI/CD
-- Observability
-- Self-Healing Operations
+A secure cloud-native web application featuring automated deployment, monitoring, dashboards, and modern cloud infrastructure.
 
 ---
 
-## 🏥 Medical Secretary Platform
+## Currently Learning
 
-Cloud-native healthcare platform featuring secure deployment, automation, dashboards, monitoring, and AI-powered services.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- Advanced Kubernetes
+- AWS Cloud
+- Azure Cloud
+- Platform Engineering
+- MLOps
+- AI Agents
+- Cloud Security
 
 ---
 
-# 🔥 GitHub Streak
+## Connect with Me
 
-<p align="center">
+**Email:** mayssamejri050@gmail.com
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+**LinkedIn:** https://www.linkedin.com/in/mayssa-mejri/
 
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-📧 **Email:** mayssamejri050@gmail.com
-
-💼 **LinkedIn:** Your LinkedIn
-
-🌍 **Portfolio:** Coming Soon
-
----
-
-<p align="center">
-
-⭐ Always learning • Building • Automating • Innovating
-
-</p>
+Feel free to explore my repositories and connect with me.
